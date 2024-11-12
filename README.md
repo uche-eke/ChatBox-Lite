@@ -12,7 +12,7 @@ Once the app is running, users within the same network can connect and begin cha
 
 
 **Building Instructions**  
-1. **Clone the repository:** Use `git clone [repository URL]`.
+1. **Clone the repository:** Use `git clone https://github.com/uche-eke/ChatBox-Lite`.
 2. **Move to project directory:** `cd ChatBox-Lite`.
 3. **Install dependencies:** Run `npm install` to set up React and other required libraries.
 4. **Start local server:** You can use `npm start` to launch the app in development mode. Visit [http://localhost:3000](http://localhost:3000) to begin.
